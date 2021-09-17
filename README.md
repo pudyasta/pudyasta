@@ -1,6 +1,6 @@
 ### Hi there, I'm Dyas 👋
 
-[![Website](https://img.shields.io/website?label=pudyasta.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pudyasta.github.io)
+
 
 
 ## I'm a youth who passionate about programming!!
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -35,6 +35,5 @@
 
 
 
-[website]: https://pudyasta.github.io
 [instagram]: https://instagram.com/pudyasta_satria
 [linkedin]: https://www.linkedin.com/in/pudyasta-satria-947bba201/
