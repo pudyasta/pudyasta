@@ -19,4 +19,5 @@ I'm Pudyasta Satria an undergraduate student at Gadjah Mada University.
 
 #### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
-[Sinu Tani Indonesia](https://sinautani.herokuapp.com/) [Recon Chain](https://reconchain.vercel.app/dashboard)
+[Sinu Tani Indonesia](https://sinautani.herokuapp.com/) 
+[Recon Chain](https://reconchain.vercel.app/dashboard)
